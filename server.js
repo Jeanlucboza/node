@@ -51,8 +51,3 @@ app.listen(3000);
 // não posso repetir GET,POST,PUT,DELET mas posso repetir o /endereço na mesma rota
 // req = request / requisiçao
 // res = response / resposta
-// http://localhost:3000
-/*
-    username: bozajeanluc
-    password: VxifD0UFgRo9eRrX  
-*/
